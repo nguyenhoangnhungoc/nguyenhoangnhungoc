@@ -1,7 +1,8 @@
 <p align="center">
-  <a href="#"><img width="50%" height="auto" src="https://github.com/." height="120px" style="border-radius: 50%;"/></a>
+  <a href="#">![HelloBobGIF](https://github.com/nguyenhoangnhungoc/nguyenhoangnhungoc/assets/101200700/cad362b4-3ada-4efa-a422-11b263c97cdf)
+</a>
 </p>
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, It's me</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, It's me</h1>
 <h3 align="center">nguyehoangnhungoc</h3>
 
 - 🌱 I’m currently learning Ho Chi Minh City Open University 
