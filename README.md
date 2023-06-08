@@ -1,7 +1,18 @@
-### Hi there 👋, It's me - adorable girl
-- 🌱 I’m currently learning at HCMC Open University
-- 📫 How to reach me: nguyenhoangnhungoc.1411@gmail.com
-- 😄 Pronouns: she/her
+<p align="center">
+  <a href="#"><img width="50%" height="auto" src="https://github.com/." height="120px" style="border-radius: 50%;"/></a>
+</p>
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, It's me</h1>
+<h3 align="center">nguyehoangnhungoc</h3>
+
+- 🌱 I’m currently learning Ho Chi Minh City Open University 
+- 📫 How to reach me: nguyenhoangnhungoc.1411@gmail.com 
+- 😄 Pronouns: She/Her 
+
+## 😉 Talk with me:
+<p align="left">
+<a href = "https://www.facebook.com/nguyenhoangnhungocdethuongday/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+<a href = "https://www.instagram.com/nguyenhoangnhungocdethuongday/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
 <!--
 **nguyenhoangnhungoc/nguyenhoangnhungoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
