@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there 👋, It's me - adorable girl
+- 🌱 I’m currently learning at HCMC Open University
+- 📫 How to reach me: nguyenhoangnhungoc.1411@gmail.com
+- 😄 Pronouns: she/her
 <!--
 **nguyenhoangnhungoc/nguyenhoangnhungoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
