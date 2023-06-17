@@ -3,7 +3,7 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, It's me</h1>
 <h3 align="center">nguyehoangnhungoc</h3>
 
-- 🌱 I’m currently learning Ho Chi Minh City Open University 
+- 🌱 I’m currently learning at Ho Chi Minh City Open University 
 - 📫 How to reach me: nguyenhoangnhungoc.1411@gmail.com 
 - 😄 Pronouns: She/Her 
 
